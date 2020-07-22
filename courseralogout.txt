@@ -1,0 +1,1 @@
+LINKTEXT		New Page

@@ -1,0 +1,4 @@
+GOTO		https://scsvmv.acm.org/pro/
+ENTER	username	{username}
+ENTER	signup-password	{password}
+CLICKXPATH	/html/body/div/div/div[2]/form/div[4]/a
